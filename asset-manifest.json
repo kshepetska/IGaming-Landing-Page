@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b95a6d2.css",
-    "main.js": "/static/js/main.178d6c78.js",
-    "static/js/453.83ddd5b4.chunk.js": "/static/js/453.83ddd5b4.chunk.js",
-    "static/media/linkedin.svg": "/static/media/linkedin.233b6c38cdf44ebbc2957156c8e70e25.svg",
-    "static/media/slide3-min.png": "/static/media/slide3-min.8827a2b1cf40f928abd5.png",
-    "static/media/slide2-min.png": "/static/media/slide2-min.59acc9ce27f98cbfd672.png",
-    "static/media/slide1-min.png": "/static/media/slide1-min.19b08fe235d0fe092651.png",
-    "static/media/twitter.svg": "/static/media/twitter.9df11e37e7a262273ece87e96442c6f2.svg",
-    "static/media/facebook.svg": "/static/media/facebook.0fa1ff194abcd690d56bf268168fc38d.svg",
-    "static/media/about-img.png": "/static/media/about-img.9d64de2a9041a0405083.png",
-    "static/media/header-img.png": "/static/media/header-img.a13fbf2e839b33a8a9f0.png",
-    "static/media/footer-img.png": "/static/media/footer-img.e345bbca6b49e79051eb.png",
-    "static/media/pvpmines.png": "/static/media/pvpmines.26bfd6c2b7f4cb73a1f9.png",
-    "static/media/upgrader.png": "/static/media/upgrader.5921c20e685d1cbe2929.png",
-    "static/media/coinflip.png": "/static/media/coinflip.7c6ab9b092eb35d05071.png",
-    "static/media/chip.png": "/static/media/chip.371dea67a313f3840713.png",
-    "static/media/Frame.svg": "/static/media/Frame.4f1483a2ee1a18323157.svg",
-    "index.html": "/index.html",
-    "main.2b95a6d2.css.map": "/static/css/main.2b95a6d2.css.map",
-    "main.178d6c78.js.map": "/static/js/main.178d6c78.js.map",
-    "453.83ddd5b4.chunk.js.map": "/static/js/453.83ddd5b4.chunk.js.map"
+    "main.css": "/IGaming-Landing-Page/static/css/main.b003dbcd.css",
+    "main.js": "/IGaming-Landing-Page/static/js/main.b63a9b9b.js",
+    "static/js/453.83ddd5b4.chunk.js": "/IGaming-Landing-Page/static/js/453.83ddd5b4.chunk.js",
+    "static/media/linkedin.svg": "/IGaming-Landing-Page/static/media/linkedin.233b6c38cdf44ebbc2957156c8e70e25.svg",
+    "static/media/slide3-min.png": "/IGaming-Landing-Page/static/media/slide3-min.8827a2b1cf40f928abd5.png",
+    "static/media/slide2-min.png": "/IGaming-Landing-Page/static/media/slide2-min.59acc9ce27f98cbfd672.png",
+    "static/media/slide1-min.png": "/IGaming-Landing-Page/static/media/slide1-min.19b08fe235d0fe092651.png",
+    "static/media/twitter.svg": "/IGaming-Landing-Page/static/media/twitter.9df11e37e7a262273ece87e96442c6f2.svg",
+    "static/media/facebook.svg": "/IGaming-Landing-Page/static/media/facebook.0fa1ff194abcd690d56bf268168fc38d.svg",
+    "static/media/about-img.png": "/IGaming-Landing-Page/static/media/about-img.9d64de2a9041a0405083.png",
+    "static/media/header-img.png": "/IGaming-Landing-Page/static/media/header-img.a13fbf2e839b33a8a9f0.png",
+    "static/media/footer-img.png": "/IGaming-Landing-Page/static/media/footer-img.e345bbca6b49e79051eb.png",
+    "static/media/pvpmines.png": "/IGaming-Landing-Page/static/media/pvpmines.26bfd6c2b7f4cb73a1f9.png",
+    "static/media/upgrader.png": "/IGaming-Landing-Page/static/media/upgrader.5921c20e685d1cbe2929.png",
+    "static/media/coinflip.png": "/IGaming-Landing-Page/static/media/coinflip.7c6ab9b092eb35d05071.png",
+    "static/media/chip.png": "/IGaming-Landing-Page/static/media/chip.371dea67a313f3840713.png",
+    "static/media/Frame.svg": "/IGaming-Landing-Page/static/media/Frame.4f1483a2ee1a18323157.svg",
+    "index.html": "/IGaming-Landing-Page/index.html",
+    "main.b003dbcd.css.map": "/IGaming-Landing-Page/static/css/main.b003dbcd.css.map",
+    "main.b63a9b9b.js.map": "/IGaming-Landing-Page/static/js/main.b63a9b9b.js.map",
+    "453.83ddd5b4.chunk.js.map": "/IGaming-Landing-Page/static/js/453.83ddd5b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b95a6d2.css",
-    "static/js/main.178d6c78.js"
+    "static/css/main.b003dbcd.css",
+    "static/js/main.b63a9b9b.js"
   ]
 }
