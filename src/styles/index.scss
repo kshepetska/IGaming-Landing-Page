@@ -20,6 +20,7 @@ code {
   --btn-color: rgb(100, 61, 136);
   border: .25em solid var(--glow-color);
   padding: 1em 3em;
+  width: 180px;
   color: var(--glow-color);
   font-size: 15px;
   font-weight: bold;
@@ -73,6 +74,7 @@ code {
   z-index: 1;
   font-size: 46px;
   margin: 100px 0 20px;
+  line-height: 100%;
   color: white;
 }
 

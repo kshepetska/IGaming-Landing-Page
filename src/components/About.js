@@ -39,7 +39,7 @@ function About() {
                 <div className="about__content">
                   <h2 className="about__title title">About Us</h2>
                   <p className="about__description">Welcome to Dream Catcher, the ultimate live casino experience where the excitement never ends! Our game combines the best of three classic casino favorites – Roulette, Poker, and a thrilling Slot-style Matching Game – all in one seamless, immersive platform.</p>
-                  <button class="button animation" type="button">
+                  <button class="button animation about__button" type="button">
                     <span class="text">Play Now</span>
                   </button>
                 </div>

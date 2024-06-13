@@ -3,7 +3,6 @@ import { useForm } from 'react-hook-form';
 import Facebook from '../images/icons/social/facebook.svg';
 import Twitter from '../images/icons/social/twitter.svg';
 import linkedin from '../images/icons/social/linkedin.svg';
-import Image from '../images/footer-img.png';
 
 import '../styles/Footer.scss';
 
@@ -53,8 +52,6 @@ function Footer() {
                     <button className="footer__button button animation" type="submit">Send</button>
                 </form>
               </div>
-              <img src={Image} alt="footer" className="footer__image"/>
-            </div>
             <div className="footer__social-container">
                 <h3 className="footer__social-title title">Follow us</h3>
                 <ul className="footer__social-list">
@@ -74,6 +71,7 @@ function Footer() {
                         </a>
                     </li>
                 </ul>
+            </div>
             </div>
         </footer>
     );

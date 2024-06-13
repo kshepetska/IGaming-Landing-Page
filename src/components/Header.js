@@ -32,7 +32,7 @@ function Header() {
             </nav>
             <div className='header__content'>
               <img src={Image} alt="header" className="header__image"/>
-              <h1 className="title">Dream Catcher</h1>
+              <h1 className="title header__title">Dream Catcher</h1>
                 <a href="#about" class="button animation">
                   <span class="text">Learn More</span>
                 </a>
