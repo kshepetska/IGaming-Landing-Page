@@ -4,20 +4,20 @@
 ### The Dream Catcher page is structured into four main sections:
 
 - Header: Contains the navigation menu and the main promotional content with an overlay and call-to-action buttons.
-- - Components: Header.js
-- - Styles: Header.scss
+  - Components: Header.js
+  - Styles: Header.scss
 
 - About Us: Provides information about the platform with a carousel of images showcasing features.
-- - Components: About.js
-- - Styles: About.scss
+  - Components: About.js
+  - Styles: About.scss
 
 - Features: Highlights the key features of the platform with descriptive images and text.
-- - Components: Features.js
-- - Styles: Features.scss
+  - Components: Features.js
+  - Styles: Features.scss
 
 - Footer: Contains a contact form, social media links, and follow us section.
-- - Components: Footer.js
-- - Styles: Footer.scss
+  - Components: Footer.js
+  - Styles: Footer.scss
 
 ## Responsive Design
 - The project is designed to be responsive and adapts to different screen sizes, including mobile phones, tablets, and desktops. SCSS mixins and media queries are used to ensure a seamless user experience across devices.
