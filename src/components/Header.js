@@ -1,12 +1,15 @@
+import React, { useState } from 'react';
 import '../styles/Header.scss';
 
 import Chip from '../images/icons/chip.png';
 import Image from '../images/header-img.png';
+import MenuBurger from '../images/icons/menu.png';
+import Cross from '../images/icons/x.png';
 
 const ChipCoins = [
     {
         id: 1,
-        title: 'Join us foor free'
+        title: 'Join us for free'
     },
     {
         id: 2,
@@ -16,25 +19,38 @@ const ChipCoins = [
         id: 3,
         title: 'Play and win big'
     }
-]
+];
 
 function Header() {
+    const [menuOpen, setMenuOpen] = useState(false);
+
+    const toggleMenu = () => {
+        setMenuOpen(!menuOpen);
+    };
+
+    const closeMenu = () => {
+        setMenuOpen(false);
+    };
+
     return (
-        <header className="header">
+        <header className="header" id='home'>
             <div className='header__overlay'></div>
-            <nav className="nav">
+            <nav className={`nav ${menuOpen ? 'nav--open' : ''}`}>
                 <ul className="nav-list">
-                    <li className="nav-item"><a href="#home">Home</a></li>
-                    <li className="nav-item"><a href="#about">About</a></li>
-                    <li className="nav-item"><a href="#features">Features</a></li>
-                    <li className="nav-item"><a href="#contact">Contacts</a></li>
+                    <li className="nav-item"><a href="#home" onClick={closeMenu}>Home</a></li>
+                    <li className="nav-item"><a href="#about" onClick={closeMenu}>About</a></li>
+                    <li className="nav-item"><a href="#features" onClick={closeMenu}>Features</a></li>
+                    <li className="nav-item"><a href="#contact" onClick={closeMenu}>Contacts</a></li>
                 </ul>
             </nav>
+            <button className="burger-menu" onClick={toggleMenu}>
+                <img src={menuOpen ? Cross : MenuBurger} alt="menu" className={`burger-menu__image ${menuOpen ? 'cross' : ''}`}/>
+            </button>
             <div className='header__content'>
               <img src={Image} alt="header" className="header__image"/>
               <h1 className="title header__title">Dream Catcher</h1>
-                <a href="#about" class="button animation">
-                  <span class="text">Learn More</span>
+                <a href="#about" className="button animation">
+                  <span className="text">Learn More</span>
                 </a>
               <div className="chip-coins">
                 {ChipCoins.map(chip => (
