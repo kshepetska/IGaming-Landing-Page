@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/IGaming-Landing-Page/static/css/main.b003dbcd.css",
-    "main.js": "/IGaming-Landing-Page/static/js/main.b63a9b9b.js",
+    "main.css": "/IGaming-Landing-Page/static/css/main.961b7fb8.css",
+    "main.js": "/IGaming-Landing-Page/static/js/main.db0230a4.js",
     "static/js/453.83ddd5b4.chunk.js": "/IGaming-Landing-Page/static/js/453.83ddd5b4.chunk.js",
     "static/media/linkedin.svg": "/IGaming-Landing-Page/static/media/linkedin.233b6c38cdf44ebbc2957156c8e70e25.svg",
     "static/media/slide3-min.png": "/IGaming-Landing-Page/static/media/slide3-min.8827a2b1cf40f928abd5.png",
@@ -17,13 +17,15 @@
     "static/media/coinflip.png": "/IGaming-Landing-Page/static/media/coinflip.7c6ab9b092eb35d05071.png",
     "static/media/chip.png": "/IGaming-Landing-Page/static/media/chip.371dea67a313f3840713.png",
     "static/media/Frame.svg": "/IGaming-Landing-Page/static/media/Frame.4f1483a2ee1a18323157.svg",
+    "static/media/x.png": "/IGaming-Landing-Page/static/media/x.1415964a27513d260ea1.png",
+    "static/media/menu.png": "/IGaming-Landing-Page/static/media/menu.d7a3d180a8d6f4dd755a.png",
     "index.html": "/IGaming-Landing-Page/index.html",
-    "main.b003dbcd.css.map": "/IGaming-Landing-Page/static/css/main.b003dbcd.css.map",
-    "main.b63a9b9b.js.map": "/IGaming-Landing-Page/static/js/main.b63a9b9b.js.map",
+    "main.961b7fb8.css.map": "/IGaming-Landing-Page/static/css/main.961b7fb8.css.map",
+    "main.db0230a4.js.map": "/IGaming-Landing-Page/static/js/main.db0230a4.js.map",
     "453.83ddd5b4.chunk.js.map": "/IGaming-Landing-Page/static/js/453.83ddd5b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b003dbcd.css",
-    "static/js/main.b63a9b9b.js"
+    "static/css/main.961b7fb8.css",
+    "static/js/main.db0230a4.js"
   ]
 }
